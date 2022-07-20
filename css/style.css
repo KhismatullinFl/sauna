@@ -1921,6 +1921,10 @@ img {
           align-items: center;
 }
 
+.modal-form-rating__text {
+  margin-right: 10px;
+}
+
 .modal-form-rating__wrapper {
   display: -webkit-box;
   display: -ms-flexbox;
