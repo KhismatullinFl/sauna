@@ -337,10 +337,6 @@ img {
   font-family: "Noto Sans", sans-serif;
 }
 
-.form__input:focus {
-  border-bottom: 1px solid #FFFFFF;
-}
-
 .form__textarea {
   font-family: "Noto Sans", sans-serif;
   -webkit-box-flex: 0;
@@ -1791,7 +1787,7 @@ img {
   display: none;
   -webkit-animation: fade 0.1s linear;
           animation: fade 0.1s linear;
-  padding: 0 15px;
+  padding: 15px;
 }
 
 .modal__block {
